@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hola soy Christopher Zambrano
-📫Puedes contactarme en Instagram
+# ✨Christopher Zambrano
+📫 You can reach me on [Instagram](https://www.instagram.com/joel_developer/)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
