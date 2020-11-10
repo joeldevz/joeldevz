@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hola soy Christopher Zambrano
+📫Puedes contactarme en Instagram
+⚡ Tecnologías
+JavaScript Nodejs React HTML5 CSS3 Bootstrap  MongoDB  GitHub
