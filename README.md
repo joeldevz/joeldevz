@@ -14,10 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ✨Christopher Zambrano
-📫 You can reach me on [Instagram](https://www.instagram.com/joel_developer/)
-## ⚡ Technologies
 
+# ✨Christopher Zambrano
+❤️ [Linkedin](https://www.linkedin.com/in/christopher-joel-zambrano-marcillo/)
+
+📫 You can reach me on [Instagram](https://www.instagram.com/joel_developer/)
+
+
+
+Desarrollador de Software con +2
+años de experiencia.
+Autodidacta, me encanta aprender,
+bueno trabajando en equipo y me
+encanta los retos, me ayudan mejorar
+en todos los ambitos del desarrollo.
+
+Ahora me encuentro trabajando en mi propio proyecto y en Startup
+
+## ⚡ Technologies
+![TypeScript](https://img.shields.io/badge/-TipyScript-black?style=flat-square&logo=typescript)
+![Nextjs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next-js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
