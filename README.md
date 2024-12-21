@@ -2,7 +2,7 @@
 
 # ✨ Christopher Joel Zambrano
 
-❤️ [LinkedIn](https://www.linkedin.com/in/christopher-joel-zambrano-marcillo/)\
+❤️ [LinkedIn](https://www.linkedin.com/in/christopher-zm)\
 📫 [Instagram](https://www.instagram.com/joel_developer/)
 
 ---
