@@ -4,11 +4,11 @@
   <a href="https://www.linkedin.com/in/christopher-zm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-Mi visión es que la tecnología que estamos construyendo en **[clasing](URL_DE_LA_WEB_DE_CLACING)** aporte un valor real y disruptivo. Creo que la IA no sustituirá a los grandes educadores; será un apoyo y potenciador para mejorar y crear una mejor educación.
+Mi visión es que la tecnología que estamos construyendo en **[clasing](https://clasingelts.com)** aporte un valor real y disruptivo. Creo que la IA no sustituirá a los grandes educadores; será un apoyo y potenciador para mejorar y crear una mejor educación.
 
 Mi pasión por la tecnología nació de la necesidad de expresar mi creatividad, pero fue al enseñar a otros cuando todo cobró sentido. Descubrí que la educación era el lugar perfecto para usar la innovación con un propósito real: impactar positivamente en la vida de las personas.
 
-Como **CTO** de clasing, trabajo mano a mano con nuestro CEO para definir la visión tecnológica de la compañía. Mi responsabilidad es traducir esa visión en un roadmap ejecutable, liderando un equipo que no solo construye una plataforma robusta y escalable, sino que también atrae y cultiva al mejor talento del sector.
+Como **Tech Lead** de clasing, trabajo mano a mano con nuestro CEO para definir la visión tecnológica de la compañía. Mi responsabilidad es traducir esa visión en un roadmap ejecutable, liderando un equipo que no solo construye una plataforma robusta y escalable, sino que también atrae y cultiva al mejor talento del sector.
 
 ---
 
