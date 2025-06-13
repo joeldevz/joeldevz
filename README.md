@@ -1,36 +1,33 @@
-### Hi there!&#x20;
+# ¡Hola! 👋 Soy Christopher
 
-# ✨ Christopher Joel Zambrano
+<p align="left">
+  <a href="https://www.linkedin.com/in/christopher-zm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-❤️ [LinkedIn](https://www.linkedin.com/in/christopher-zm)\
-📫 [Instagram](https://www.instagram.com/joel_developer/)
+Mi visión es que la tecnología que estamos construyendo en **[clasing](URL_DE_LA_WEB_DE_CLACING)** aporte un valor real y disruptivo. Creo que la IA no sustituirá a los grandes educadores; será un apoyo y potenciador para mejorar y crear una mejor educación.
 
----
+Mi pasión por la tecnología nació de la necesidad de expresar mi creatividad, pero fue al enseñar a otros cuando todo cobró sentido. Descubrí que la educación era el lugar perfecto para usar la innovación con un propósito real: impactar positivamente en la vida de las personas.
 
-**Tech Lead** and **Software Developer** with over 5 years of experience specializing in **Node.js** and **TypeScript**. I design and implement **robust**, **scalable**, and **efficient systems** that deliver high performance and reliability.
-
-Currently, I lead strategic technical decisions, define system architecture, and mentor development teams to ensure quality code and adherence to best engineering practices. My role also involves close collaboration with the business team to align technological solutions with company goals, providing sustainable value and customer satisfaction.
-
-I’m passionate about constant learning and staying updated with the latest trends in technology. Tackling challenging projects fuels my growth, allowing me to deliver innovative and effective solutions. I enjoy building platforms that make a meaningful difference while fostering teamwork and technical excellence.
+Como **CTO** de clasing, trabajo mano a mano con nuestro CEO para definir la visión tecnológica de la compañía. Mi responsabilidad es traducir esa visión en un roadmap ejecutable, liderando un equipo que no solo construye una plataforma robusta y escalable, sino que también atrae y cultiva al mejor talento del sector.
 
 ---
 
-### Highlights:
+### 🚀 Mis Áreas de Foco Estratégico
 
-- **Leadership:** Guiding technical strategy, mentoring teams, and fostering collaborative environments.
-- **Problem-Solving:** Building scalable, secure, and efficient systems to meet diverse business needs.
-- **Innovation:** Staying ahead with cutting-edge technologies to create impactful solutions.
-- **Collaboration:** Aligning technical and business goals for maximum impact.
+* 🧠 **IA Aplicada a EdTech:** Explorando y aplicando LLMs para crear experiencias de aprendizaje personalizadas y eficaces.
+* 👥 **Liderazgo y Cultura de Equipo:** Escalando equipos de ingeniería y fomentando una cultura de ownership, colaboración e innovación.
+* 🛠️ **Arquitectura de Software Escalable:** Diseñando sistemas de alto impacto capaces de crecer y evolucionar con el negocio.
 
 ---
 
-## ⚡ Tech Stack
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+
+### 💻 Tecnologías de mi Ecosistema
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
 ![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square&logo=websocket)
-
